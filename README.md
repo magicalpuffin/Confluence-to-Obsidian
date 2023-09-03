@@ -6,6 +6,8 @@ Confluence HTML exports are converted to Markdown using Pandoc through a Powersh
 
 The current script removes images and breadcrumb links. HTML in the Markdown output is minimized, however, some tables may not be converted.
 
+See blog post for details: https://puffinsystems.com/blog/2023-08-01/confluence-to-obsidian/
+
 ## Basic Usage
 
 1. Install Pandoc. https://pandoc.org/installing.html

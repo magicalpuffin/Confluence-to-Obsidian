@@ -1,3 +1,5 @@
+-- filter_html.lua
+
 function Span(el)
   return el.content
 end
